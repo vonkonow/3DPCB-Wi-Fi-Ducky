@@ -1,0 +1,2 @@
+# 3DPCB-Wi-Fi-Ducky
+This is a 3D printed Wi-Fi version of the well-known USB Rubber Ducky hacking device (featured in Mr Robot). It is a very powerful PEN test tool that bypasses common security protections since it is planted inside the network (requires some social engineering). I want to raise the awareness of this attack vector and encourage anyone to build it, test it and use it for good to improve security (white hat hacking).
